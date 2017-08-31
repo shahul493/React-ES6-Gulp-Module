@@ -1,0 +1,37 @@
+{
+  "name": "deposits-syf",
+  "version": "0.0.5",
+  "dependencies": {
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.18.13",
+    "chalk": "^2.1.0",
+    "del": "^3.0.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-jest": "^2.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-stylus": "^2.6.0",
+    "react-dom": "^15.6.1",
+    "react-with-addons": "0.0.1",
+    "require-dir": "^0.3.2",
+    "traceur": "0.0.111",
+    "vinyl-buffer": "^1.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^3.46.0",
+    "connect": "^2.30.2",
+    "envify": "^1.2.1",
+    "es6ify": "^1.6.0",
+    "gulp": "^3.6.2",
+    "gulp-browserify": "^0.5.0",
+    "gulp-livereload": "^1.3.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-util": "^2.2.14",
+    "react": "^0.10.0",
+    "reactify": "^0.13.2",
+    "vinyl-source-stream": "^0.1.1",
+    "watchify": "^0.8.3"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
